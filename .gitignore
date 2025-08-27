@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.idea/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -77,6 +78,9 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+#Folder for training and practice some new functions, methods, algorythms and technologies
+Practice/
 
 # IPython
 profile_default/
